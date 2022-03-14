@@ -33,7 +33,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url(homeBackground3.jpg) no-repeat;
+  background: url(/image/homeBackground3.jpg) no-repeat;
   background-size: cover;
   flex-direction: column;
 }
